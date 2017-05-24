@@ -47,6 +47,5 @@ $(document).ready(function(){
           getValue(this.id);
       }
     }
-  });
-  
+  }); 
 });
